@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/1/week6exercise/app/src/main/res/layout/activity_main.xml" value="0.23958333333333334" />
+        <entry key="..\:/1/week6exercise/app/src/main/res/layout/fragment_now_playing.xml" value="0.24728260869565216" />
+        <entry key="..\:/1/week6exercise/app/src/main/res/layout/fragment_top_rated.xml" value="0.24728260869565216" />
+        <entry key="..\:/1/week6exercise/app/src/main/res/menu/menuoption.xml" value="0.264" />
         <entry key="..\:/monlaptrinhapp/project/week6exercise/app/src/main/res/layout/fragment_now_playing.xml" value="0.20416666666666666" />
         <entry key="..\:/monlaptrinhapp/project/week6exercise/app/src/main/res/layout/fragment_top_rated.xml" value="0.20416666666666666" />
         <entry key="..\:/monlaptrinhapp/project/week6exercise/app/src/main/res/layout/movie_item.xml" value="0.22" />
